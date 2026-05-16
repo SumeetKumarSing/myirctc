@@ -17,7 +17,8 @@
     <input type="text" placeholder="Mother Enter Email" name="email" id="email" required>
    <label for="email"><b>Sister</b></label>
     <input type="text" placeholder="Sister Enter Email" name="email" id="email" required>
-
+   <label for="email"><b>Sister</b></label>
+    <input type="text" placeholder="Sister Enter Email" name="email" id="email" required>
     <label for="email"><b>Kallu</b></label>
     <input type="text" placeholder="kallu Enter Email" name="email" id="email" required>
 
