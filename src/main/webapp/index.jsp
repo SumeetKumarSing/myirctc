@@ -22,6 +22,9 @@
     <label for="email"><b>Kallu</b></label>
     <input type="text" placeholder="kallu Enter Email" name="email" id="email" required>
 
+    <label for="email"><b>Rohit</b></label>
+    <input type="text" placeholder="RoitEnter Email" name="email" id="email" required>
+
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
